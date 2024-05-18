@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'MediTrack',
       home: Scaffold(
 
-        // body: CardDoctor(),
+        // body: CardDoctor(),m
         // body: CardPatient(),
         // body: Checkbox(),
         // body: Checkbox1(),
@@ -29,12 +29,12 @@ class MyApp extends StatelessWidget {
         // body: ResetPasswordPhone(),
         // body: ResetPasswordVerifyCode(),
         // body: SelectPage(),
-        body: SignInDoctor(),
+        // body: SignInDoctor(),
         // body: SignInPatient(),
         // body: SignUpDoctor(),
         // body: SignUpPatient(),
         // body: ViewFolderMedical(),
-        // body: Welcome(),
+        body: Welcome(),
 
       ),
     );
