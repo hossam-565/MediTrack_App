@@ -1,0 +1,75 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+  flutter_svg: any
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/vectors/iconactiondone_24_px_2_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/iconactiondone_24_px_1_x2.svg
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/sms_x2.svg
+  - assets/vectors/user_x2.svg
+  - assets/vectors/eye_slash_3_x2.svg
+  - assets/vectors/lock_1_x2.svg
+  - assets/vectors/sms_1_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/eye_slash_5_x2.svg
+  - assets/vectors/user_1_x2.svg
+  - assets/vectors/lock_5_x2.svg
+  - assets/vectors/iconactiondone_24_px_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/lock_2_x2.svg
+  - assets/vectors/sms_4_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/eye_slash_1_x2.svg
+  - assets/vectors/google_1_x2.svg
+  - assets/vectors/vector_2_x2.svg
+  - assets/vectors/done_x2.svg
+  - assets/vectors/rectangle_1001_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/eye_slash_2_x2.svg
+  - assets/vectors/lock_3_x2.svg
+  - assets/vectors/lock_4_x2.svg
+  - assets/vectors/eye_slash_x2.svg
+  - assets/images/capture_decran_20240508_a_14341.png
+  - assets/images/capture_decran_20240511_a_13171.png
+  - assets/vectors/ellipse_1_x2.svg
+  - assets/vectors/ellipse_2_x2.svg
+  - assets/vectors/sms_3_x2.svg
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/rectangle_100_x2.svg
+  - assets/vectors/done_1_x2.svg
+  - assets/vectors/ellipse_52_x2.svg
+  - assets/vectors/ellipse_53_x2.svg
+  - assets/images/capture_decran_20240512_a_13241.png
+  - assets/images/capture_decran_20240512_a_12121.png
+  - assets/vectors/ellipse_4_x2.svg
+  - assets/vectors/ellipse_3_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/lock_x2.svg
+  - assets/vectors/eye_slash_4_x2.svg
+  - assets/vectors/sms_2_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/google_x2.svg
+
