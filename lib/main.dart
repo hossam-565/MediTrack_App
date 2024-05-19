@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'MediTrack',
       home: Scaffold(
 
-        // body: CardDoctor(),m
+        // body: CardDoctor(),
         // body: CardPatient(),
         // body: Checkbox(),
         // body: Checkbox1(),
