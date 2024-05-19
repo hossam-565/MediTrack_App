@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/pages/select_page.dart';
-import 'package:flutter_app/pages/sign_in_doctor.dart';
 
 import 'package:flutter_app/pages/welcome.dart';
 
@@ -17,6 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
 
         // body: CardDoctor(),
+
         // body: CardPatient(),
         // body: Checkbox(),
         // body: Checkbox1(),

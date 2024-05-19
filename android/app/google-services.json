@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73190196872",
+    "project_id": "meditrack-2b228",
+    "storage_bucket": "meditrack-2b228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73190196872:android:4664223fd9e5a2e8de013d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73190196872-gl4l7otsmugch98m16nl490p7dbu48qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5CldypSqwe3PeQalbUaz5vz6IYeOoGb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73190196872-gl4l7otsmugch98m16nl490p7dbu48qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
